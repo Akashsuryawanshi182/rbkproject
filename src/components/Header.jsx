@@ -124,7 +124,7 @@
 
 
 import React, { useState } from 'react';
-import 'animate.css';
+
 
 
 function Header() {
